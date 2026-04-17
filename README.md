@@ -2,7 +2,7 @@
 <div align="center">
 
 ```
-~/tareq1999 $ whoami
+@tareq199923 || whoami
 ```
 
 # Hey, I'm Tareq 🐐 

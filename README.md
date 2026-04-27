@@ -159,31 +159,6 @@ I love crafting clean, efficient code and solving complex problems one commit at
   </picture>
 </div>
 
-> 🐍 **To enable the snake animation:** Go to your profile repo → Actions tab → Enable "Generate Snake" workflow. Or add this GitHub Action:
-> ```yaml
-> # .github/workflows/snake.yml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 

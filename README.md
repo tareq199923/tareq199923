@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tareq&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=60&descAlign=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Tareq&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=62&descAlign=50&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;I+build+things+that+matter+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9A%A1;Open+source+enthusiast+%F0%9F%8C%9F;Turning+ideas+into+reality+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=800&height=60&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;I+build+things+that+matter+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9A%A1;Open+source+enthusiast+%F0%9F%8C%9F;Turning+ideas+into+reality+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,33 +25,25 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-👋 Hey there! I'm **Tareq**  a passionate software engineer from 🇧🇩 Bangladesh.
+Hey there. I'm **Tareq** a passionate software engineer from 🇧🇩 Bangladesh.
 
 I love crafting clean, efficient code and solving complex problems one commit at a time.
 
-| 🔍 | Details |
-|---|---|
-| 👤 **Username** | `tareq199923` |
-| 📍 **Location** | Dhaka, Bangladesh 🇧🇩 |
-| 💼 **Role** | Software & AI Engineer |
-| 🎯 **Focus** | Scalable systems & Open source |
-| ❤️ **Passions** | Clean code · Problem solving · Learning |
-| ⚡ **Fun Fact** | I debug with `console.log`  |
-| 💬 **Quote** | *"Code is poetry written in logic."* |
+
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,7 +51,7 @@ I love crafting clean, efficient code and solving complex problems one commit at
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 🌐 Frontend
+###  Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -67,7 +59,7 @@ I love crafting clean, efficient code and solving complex problems one commit at
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Databases
+###  Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -75,7 +67,7 @@ I love crafting clean, efficient code and solving complex problems one commit at
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🚀 DevOps & Cloud
+###  DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -118,15 +110,15 @@ I love crafting clean, efficient code and solving complex problems one commit at
 
 ---
 
-## 🎯 Currently Up To
+##  Currently Up To
 
-- 🔭 Working on **LLM**
-- 🌱 Learning **LLMS**
-- 👯 Looking to collaborate on **Open Source Projects**
+-  Working on **LLM**
+-  Learning **LLMs**
+-  Looking to collaborate on **Open Source Projects**
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -141,7 +133,7 @@ I love crafting clean, efficient code and solving complex problems one commit at
 
 ---
 
-## 💡 Random Dev Quote
+##  Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
@@ -149,7 +141,7 @@ I love crafting clean, efficient code and solving complex problems one commit at
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   <picture>
@@ -158,7 +150,6 @@ I love crafting clean, efficient code and solving complex problems one commit at
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tareq199923/tareq199923/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
 
 ---
 

@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&lines=Hi%2C+I'm+Tareq;Software+Engineer;Full-Stack+Developer;AI+Enthusiast" alt="Typing intro" />
 
 # Tareq
-### Software Engineer • Full-Stack Developer • AI Enthusiast
+### Software Engineer | Full-Stack Developer | AI Enthusiast
 
 <a href="https://github.com/tareq199923">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -23,13 +23,23 @@
 
 ## About Me
 
-I’m a software engineer from Bangladesh focused on building clean, scalable, and user-centered digital products. I enjoy solving real-world problems through code, with a strong interest in modern web development, backend systems, and AI-driven experiences.
+I’m a software engineer from Bangladesh focused on building practical, scalable, and user-friendly digital products. I enjoy turning ideas into well-structured software, from frontend experiences to backend systems and AI-powered workflows.
 
-My work combines engineering fundamentals with product thinking, performance, and developer experience. I enjoy learning fast, iterating quickly, and building software that is both practical and meaningful.
+My work is driven by problem-solving, clean architecture, and continuous learning. I like building things that are useful, maintainable, and genuinely improve the user experience.
 
 ---
 
-## Core Skills
+## What I Do
+
+- Build full-stack web applications with modern tools
+- Design clean interfaces and product-focused experiences
+- Work with APIs, databases, and scalable application architecture
+- Explore AI/LLM workflows and modern developer tooling
+- Learn deeply and ship consistently
+
+---
+
+## Tech Stack
 
 ### Languages
 
@@ -58,7 +68,7 @@ My work combines engineering fundamentals with product thinking, performance, an
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps & Tools
+### DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -69,12 +79,12 @@ My work combines engineering fundamentals with product thinking, performance, an
 
 ---
 
-## GitHub Statistics
+## GitHub Overview
 
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tareq199923&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e5e7eb&icon_color=a78bfa" alt="GitHub stats" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tareq199923&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub streak" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tareq199923&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub streak stats" />
 
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareq199923&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e5e7eb" alt="Top languages" />
 
@@ -84,10 +94,10 @@ My work combines engineering fundamentals with product thinking, performance, an
 
 ## Current Focus
 
-- Building and improving full-stack web applications
-- Exploring LLMs, AI workflows, and modern tooling
-- Learning deeper system design and scalable architecture
-- Collaborating on impactful open source work
+- Building full-stack products with strong engineering fundamentals
+- Exploring LLMs, AI workflows, and practical automation
+- Improving architectural thinking and scalable system design
+- Collaborating on meaningful software and open-source work
 
 ---
 
@@ -100,12 +110,12 @@ My work combines engineering fundamentals with product thinking, performance, an
 
 </div>
 
-> Open to collaboration, learning opportunities, and building meaningful software.
+> Open to collaboration, problem-solving, and building software that matters.
 
 ---
 
 <div align="center">
 
-Thanks for visiting. Let’s build something useful.
+Thanks for visiting — let’s build something useful.
 
 </div>

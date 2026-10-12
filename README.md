@@ -7,7 +7,7 @@
 Building practical software, AI-powered workflows, and product-focused tools that solve real problems.
 Based in Bangladesh — focused on shipping useful products and learning by building.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tareq199923)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=firefox&logoColor=white)](https://tareq-tareq199923s-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahidulislam199923/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jahidulislam199923@email.com)
 
@@ -87,7 +87,7 @@ A reading and discussion-centered project that blends content, conversation, and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tareq199923&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e5e7eb" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tareq199923&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e5e7eb&icon_color=c084fc" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareq199923&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e5e7eb" alt="Top Languages" />
 
@@ -110,7 +110,7 @@ A reading and discussion-centered project that blends content, conversation, and
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahidulislam199923/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jahidulislam199923@email.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tareq199923)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat-square&logo=firefox&logoColor=white)](https://tareq-tareq199923s-projects.vercel.app/)
 
 > Open to collaboration, learning opportunities, and building software that matters.
 

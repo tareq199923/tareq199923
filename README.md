@@ -2,10 +2,10 @@
 
 # Tareq
 
-**Software Engineer • Full-Stack Developer • AI Enthusiast**
+**Software Engineer • Full-Stack Developer • AI Builder**
 
-Building practical software, AI-powered workflows, and developer tools that solve real problems.
-Based in Bangladesh — focused on shipping quality code and learning deeply.
+Building practical software, AI-powered workflows, and product-focused tools that solve real problems.
+Based in Bangladesh — focused on clean engineering, useful products, and continuous learning.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tareq199923)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahidulislam199923/)
@@ -15,20 +15,41 @@ Based in Bangladesh — focused on shipping quality code and learning deeply.
 
 ---
 
-## 🎯 What I Do
+## 🚀 Start Here
 
-I'm a full-stack engineer who enjoys solving problems at scale. My focus areas:
-
-- **Full-Stack Engineering** — Building scalable web applications with clean architecture, from database design to user interface
-- **AI & LLM Integration** — Creating workflows and tools that leverage modern AI for automation and productivity
-- **Developer Experience** — Building tools and systems that make development faster and more enjoyable
-- **Software Craftsmanship** — Writing maintainable code with a strong emphasis on testing, documentation, and best practices
+- 🔧 **[invincible](https://github.com/tareq199923/invincible)** — a product-focused project centered on building reliable, scalable, and practical software systems
+- 📚 **[book-dialogues](https://github.com/tareq199923/book-dialogues)** — a reading and discussion-driven application experience built around meaningful interaction and thoughtful design
+- 🤖 **AI & Workflow Builder** — exploring how AI can improve developer productivity, automation, and product experiences
+- ⚙️ **Full-Stack Engineer** — working across frontend, backend, APIs, and user-facing product layers
 
 ---
 
-## 🔧 Tech Stack
+## 💡 What I’m Building
 
-**Languages**
+### Product-focused software
+I enjoy building software that is useful in the real world — projects that combine engineering quality, product thinking, and strong user experience.
+
+### AI-enabled systems
+I’m interested in how AI can improve workflows, enhance product experiences, and make tools more helpful for real users.
+
+### Full-stack engineering
+I work across the stack, from backend architecture and API design to frontend interfaces and polished user journeys.
+
+---
+
+## 🧩 Current Projects
+
+### [invincible](https://github.com/tareq199923/invincible)
+A product-minded project focused on building practical and scalable software. The goal is to create something useful, maintainable, and thoughtfully designed.
+
+### [book-dialogues](https://github.com/tareq199923/book-dialogues)
+A reading and discussion-centered project that combines content, conversation, and a polished interactive experience.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -36,7 +57,7 @@ I'm a full-stack engineer who enjoys solving problems at scale. My focus areas:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frontend**
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
@@ -44,7 +65,7 @@ I'm a full-stack engineer who enjoys solving problems at scale. My focus areas:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend & Databases**
+### Backend & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -52,7 +73,7 @@ I'm a full-stack engineer who enjoys solving problems at scale. My focus areas:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**DevOps & Infrastructure**
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -62,50 +83,41 @@ I'm a full-stack engineer who enjoys solving problems at scale. My focus areas:
 
 ---
 
-## 💼 Current Focus
-
-I'm actively working on:
-
-- **Shipping full-stack products** with strong engineering fundamentals and user-centric design
-- **Exploring LLMs and AI workflows** — building practical automation and AI-enabled experiences
-- **System design & architecture** — learning to build scalable, maintainable systems
-- **Open-source contributions** — participating in projects and sharing useful tools with the community
-- **Building in public** — sharing knowledge through code, documentation, and technical writing
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tareq199923&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e5e7eb" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=tareq199923&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e5e7eb" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tareq199923&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareq199923&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e5e7eb" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareq199923&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e5e7eb" alt="Top Languages">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tareq199923&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Current Focus
 
-I'm always interested in:
-- Collaborating on meaningful projects
-- Learning from experienced engineers
-- Building tools that solve real problems
-- Open-source contributions and knowledge sharing
+- Building full-stack products with strong engineering foundations
+- Exploring AI workflows and practical automation
+- Improving architecture, scalability, and product usability
+- Shipping useful tools and learning by building in public
 
-Feel free to reach out for opportunities, questions, or just to chat about tech:
+---
+
+## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahidulislam199923/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jahidulislam199923@email.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tareq199923)
 
+> Open to collaboration, learning opportunities, and building software that matters.
+
 ---
 
 <div align="center">
 
-**Thanks for visiting — let's build something useful together.**
+Thanks for visiting — let’s build something useful.
 
 </div>

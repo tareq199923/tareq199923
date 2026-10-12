@@ -5,7 +5,7 @@
 **Software Engineer • Full-Stack Developer • AI Builder**
 
 Building practical software, AI-powered workflows, and product-focused tools that solve real problems.
-Based in Bangladesh — focused on clean engineering, useful products, and continuous learning.
+Based in Bangladesh — focused on shipping useful products and learning by building.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tareq199923)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahidulislam199923/)
@@ -17,20 +17,20 @@ Based in Bangladesh — focused on clean engineering, useful products, and conti
 
 ## 🚀 Start Here
 
-- 🔧 **[invincible](https://github.com/tareq199923/invincible)** — a product-focused project centered on building reliable, scalable, and practical software systems
-- 📚 **[book-dialogues](https://github.com/tareq199923/book-dialogues)** — a reading and discussion-driven application experience built around meaningful interaction and thoughtful design
-- 🤖 **AI & Workflow Builder** — exploring how AI can improve developer productivity, automation, and product experiences
-- ⚙️ **Full-Stack Engineer** — working across frontend, backend, APIs, and user-facing product layers
+- 🔧 **Full-Stack Builder** — crafting web apps, APIs, and product experiences with a strong engineering foundation
+- 🤖 **AI & Workflow Explorer** — experimenting with practical AI workflows, automation, and developer productivity tools
+- ⚙️ **Product-Minded Engineer** — balancing usability, architecture, and real-world value in everything I build
+- 🌱 **Learning in Public** — shipping useful tools, iterating fast, and improving through real projects
 
 ---
 
 ## 💡 What I’m Building
 
 ### Product-focused software
-I enjoy building software that is useful in the real world — projects that combine engineering quality, product thinking, and strong user experience.
+I enjoy creating software that is useful in the real world — projects that combine engineering quality, thoughtful design, and strong user experience.
 
 ### AI-enabled systems
-I’m interested in how AI can improve workflows, enhance product experiences, and make tools more helpful for real users.
+I’m interested in how AI can improve workflows, automate repetitive tasks, and create better digital product experiences.
 
 ### Full-stack engineering
 I work across the stack, from backend architecture and API design to frontend interfaces and polished user journeys.
@@ -40,10 +40,10 @@ I work across the stack, from backend architecture and API design to frontend in
 ## 🧩 Current Projects
 
 ### [invincible](https://github.com/tareq199923/invincible)
-A product-minded project focused on building practical and scalable software. The goal is to create something useful, maintainable, and thoughtfully designed.
+A product-minded project focused on building reliable, scalable, and practical software. The goal is to create something useful, maintainable, and thoughtfully designed.
 
 ### [book-dialogues](https://github.com/tareq199923/book-dialogues)
-A reading and discussion-centered project that combines content, conversation, and a polished interactive experience.
+A reading and discussion-centered project that blends content, conversation, and an interactive experience into a meaningful product.
 
 ---
 

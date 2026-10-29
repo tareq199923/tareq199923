@@ -68,6 +68,24 @@ npm run dev
 
 ---
 
+## 🤝 Contribute to Invincible
+
+Invincible is open source (MIT) and contributions are welcome: **bug reports, docs fixes, new provider support, and code.**
+
+```bash
+git clone https://github.com/tareq199923/invincible
+cd invincible
+pip install -e ".[dev]"
+pytest
+```
+
+- 📖 Read [CONTRIBUTING.md](https://github.com/tareq199923/invincible/blob/main/CONTRIBUTING.md) for setup and the PR process
+- 🗺️ See the [roadmap](https://github.com/tareq199923/invincible/blob/main/docs/ROADMAP.md) for what is built and what is planned
+- 🐛 [Open an issue](https://github.com/tareq199923/invincible/issues) or send a pull request
+- ⭐ Star the repo if it saves you from a rate limit
+
+---
+
 ## 🔬 Research
 
 | Paper | Venue | Status |

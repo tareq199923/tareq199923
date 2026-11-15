@@ -6,6 +6,7 @@ I build AI-powered products and ship them in public. Based in Bangladesh.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://tareq-tareq199923s-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahidulislam199923/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jahidulislam199923@gmail.com)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/tareq199923/badge.svg)](https://hub.xerj.org/contributors/tareq199923)
 
 > 🔎 **Open to work:** AI engineer · full-stack · AI tooling roles
 

@@ -7,6 +7,7 @@ I build AI-powered products and ship them in public. Based in Bangladesh.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahidulislam199923/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jahidulislam199923@gmail.com)
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/tareq199923/badge.svg)](https://hub.xerj.org/contributors/tareq199923)
+[![M8ven Score](https://m8ven.ai/badge/mcp/tareq199923-workflow-first-tq7723?v=269d4e63cce1cca7594b0df4a1dc5d70)](https://m8ven.ai/mcp/tareq199923-workflow-first-tq7723?s=readme)
 
 > 🔎 **Open to work:** AI engineer · full-stack · AI tooling roles
 
